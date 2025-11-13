@@ -1,0 +1,26 @@
+# Core Libraries
+python-dotenv==1.0.1
+re==2.2.1
+
+# LangChain and OpenAI
+langchain==0.3.7
+langchain-openai==0.2.3
+langchain-pinecone==0.1.2
+langchain-community==0.3.7
+openai==1.51.0
+
+# Pinecone
+pinecone-client==5.0.1
+
+# Document Handling
+PyMuPDF==1.24.10
+
+# Web Frameworks
+fastapi==0.115.0
+uvicorn==0.32.0
+
+# UI Framework
+streamlit==1.39.0
+
+# Other Utilities
+pydantic==2.9.2
