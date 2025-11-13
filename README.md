@@ -121,5 +121,4 @@ Add visual analytics in Streamlit dashboard.
 🧑‍💻 Author
 Akshay Jejurkar
 Data Engineer / ML Developer
-📧 [your-email@example.com]
-🌐 [LinkedIn Profile / GitHub Profile]
+📧 [akshayjejurkar24@gmail.com]
